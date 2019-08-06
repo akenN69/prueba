@@ -1,0 +1,75 @@
+h1{
+  color: blue;
+}
+.logobaner{
+
+}
+.logo{
+  border-radius: 50px;
+}
+.imgcarousel{
+  width: 100vw;
+}
+.img1{
+  max-width: 500px;
+  max-height: 354px;
+}
+.img2{
+  max-width: 500px;
+  max-height: 351px;
+}
+.img3{
+  max-width: 500px;
+  max-height: 700px;
+}
+.titulo1{
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+.seccionformulario{
+  background-color: #00dcffc7;
+}
+.seccioncontacto{
+  background-color: #ff00007a;
+}
+.imag1{
+  max-width: 505px;
+  max-height: 505px;
+}
+.imag2{
+  max-height: 271px;
+  max-width: 505px;
+}
+.imag3{
+  max-width: 505px;
+  max-height: 275px;
+}
+.datoscontacto{
+  border:1px solid;
+  text-align: left;
+  font-size: 100%;
+  border-radius: 30px;
+  background-color: lightgreen;
+}
+.redsocial{
+  max-width: 65px;
+  max-height: 56px;
+}
+.redsocial2{
+  max-height: 54px;
+  border-radius: 30px;
+}
+.redsocial3{
+  max-height: 50px;
+  border-radius: 20px;
+}
+.logop{
+  margin-top: 4%;
+}
+.logop1{
+  margin-top: 11%;
+}
+.logop2{
+  margin-top: 11%;
+}
